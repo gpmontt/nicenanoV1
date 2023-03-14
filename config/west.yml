@@ -2,9 +2,6 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: gpmontt
-      url-base: https://github.com/gpmontt
-
   projects:
     # - name: zmk
     #   remote: zmkfirmware-infused-kim
