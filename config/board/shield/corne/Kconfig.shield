@@ -1,0 +1,5 @@
+config SHIELD_CORNE_LEFT
+    def_bool $(shield_list_contains, corne_left)
+
+config SHIELD_CORNE_RIGHT
+    def_bool $(shield_list_contains, corne_right)
